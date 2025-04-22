@@ -32,7 +32,7 @@
 }
 
 .starsCount {
-    font-size: 3rem;
+    font-size: 4rem;
 
     color: #412671;
 }
@@ -44,7 +44,7 @@
 
     background-image: url(/assets/letterfix.png);
     background-repeat: no-repeat;
-    background-size: 600px;
+    background-size: 520px;
 }
 
 .main {
@@ -141,11 +141,12 @@
 
 .clue {
     cursor: pointer;
-    width: 15%;
-    height: 10%;
+    width: 20%;
+    height: 17%;
     margin-top: 5px;
+    margin-right: 15px;
     text-align: center;
-    font-size: 0.8rem;
+    font-size: 1rem;
     background-color: #fff;
     border-radius: 15px;
     box-shadow: 0px 2px 0px #673ab7;

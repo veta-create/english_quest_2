@@ -22,7 +22,7 @@ const EndGame: React.FC = () => {
             />
           </p>
         ) : (
-          <p>
+          <p className={styles.collectedStars}>
             And collected {starsCount}
             <img
               className={styles.star}

@@ -22,8 +22,13 @@
     text-shadow: 1px 2px 3px #000;
 }
 
+.collectesStart {
+    display: flex;
+}
+
 .star {
     display: inline-block;
-    width: 10%;
-    height: 40%;
+    width: 8%;
+    height: 15%;
+    margin: auto;
 }
